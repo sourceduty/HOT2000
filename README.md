@@ -8,6 +8,13 @@
 
 The GPT's functionality extends to guiding iterative modifications, testing upgrades like improved insulation or high-efficiency systems, and producing compliance or performance reports for regulatory submissions. It simplifies the complex process of energy modeling by offering step-by-step instructions and ensuring that the models conform to technical requirements, such as those outlined in the NBC 9.36 performance path. It ensures flexibility and precision, catering to users' diverse energy modeling needs.
 
+```
+Simulate the HOT2000 software suite.
+Simulate the energy performance of residential buildings.
+Print an example HOT2000 simulation.
+What is HOT2000?
+```
+
 #
 ### EnerGuide
 
