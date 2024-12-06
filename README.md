@@ -23,6 +23,10 @@ For vehicles, the EnerGuide label provides information about fuel consumption ra
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [HOT2000 Download](https://natural-resources.canada.ca/energy-efficiency/homes/professional-opportunities/tools-industry-professionals/20596)
+<br>
+[Structural Design](https://github.com/sourceduty/Structural_Design)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
